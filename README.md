@@ -43,6 +43,9 @@ Request to download pre-trained yolov4 horse custom training weights file: https
 
 Copy and paste the weights from your downloads folder into the 'data' folder of this repository.
 
+#Train your own custom weights
+
+https://colab.research.google.com/drive/1NCHtqK4PkKKqya_yphFpev4DQnqGgK20?usp=sharing
 
 ## Running the Tracker with YOLOv4
 To implement the object tracking using YOLOv4, first we convert the .weights into the corresponding TensorFlow model which will be saved to a checkpoints folder. Then all we need to do is run the object_tracker.py script to run our object tracker with YOLOv4, DeepSort and TensorFlow.
