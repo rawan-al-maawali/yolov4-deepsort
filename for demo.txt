@@ -1,0 +1,11 @@
+python object_tracker.py --video ./data/video/horses-1.mp4 --output ./outputs/horses-1.avi --model yolov4
+
+
+
+python object_tracker.py --video ./data/video/horses-2.mp4 --output ./outputs/horses-2.avi --model yolov4
+
+
+python object_tracker.py --video ./data/video/horses-3.mp4 --output ./outputs/horses-3.avi --model yolov4
+
+
+python object_tracker.py --video ./data/video/horses-4.mp4 --output ./outputs/horses-4.avi --model yolov4
